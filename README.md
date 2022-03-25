@@ -12,7 +12,10 @@
 **Debug the app**
 
 - [x] Fix the "divide by zero" error
-- [ ] Fix the "format" error
+- [x] Fix the "format" error
+
+**Revise the code**
+- [ ] Revise the code
 
 
 Curent Teminal Demonstration
@@ -20,15 +23,19 @@ Curent Teminal Demonstration
 
 `Console Calculator in C#` <br>
 `------------------------` <br>
-`Type a number, and then press Enter` <br>
-`5` <br>
-`Type another number, and then press Enter` <br>
-`5` <br>
+`Type a number, and then press Enter``5t` <br>
+`This is not valid input. Please enter an integer value:` `5`
+
+
+
+`Type another number, and then press Enter` `0` <br>
 `Choose an operator from the following list:` <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`a - Add` <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`s - Subtract` <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`m - Multiply` <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`d - Divide` <br>
-`Type the key of your chosen function, and then press Enter? m` <br>
-`Your result: 5 * 5 = 25` <br>
+`Type the key of your chosen function, and then press Enter? d` <br>
+`Enter a non-zero divisor:`<br>
+`4`<br>
+`Your result: 5 / 4 = 1.25` <br>
 `Press any key to close the Calculator console app` <br>
