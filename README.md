@@ -4,9 +4,15 @@
 
 [Tutorial: Create a simple C# console app in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2022)
 
+**Add code to create a calculator**
+
 - [x] Add code to create a calculator
 - [x] Add decimal functionality
-- [ ] Debug the app
+
+**Debug the app**
+
+- [x] Fix the "divide by zero" error
+- [ ] Fix the "format" error
 
 
 Curent Teminal Demonstration
